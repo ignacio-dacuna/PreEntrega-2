@@ -1,0 +1,21 @@
+*{
+    font-family: sans-serif;
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+.h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 40dvh;
+}
+
+.h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 40dvh;
+}
